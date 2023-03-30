@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">User Location with Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="MAPS_API_KEY">AIzaSyCg8EXVdaRIvpSnPB-6vG3LeARsjUvBuzM</string>
+</resources>
